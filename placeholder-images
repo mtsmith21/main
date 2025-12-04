@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-jet",
+      "description": "A sleek private jet on a runway at sunset",
+      "imageUrl": "https://images.unsplash.com/photo-1619659085985-f51a00f0160a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwcml2YXRlJTIwamV0fGVufDB8fHx8MTc2NDYzNDA5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "private jet"
+    },
+    {
+      "id": "op-logo-netjets",
+      "description": "Logo for NetJets",
+      "imageUrl": "https://images.unsplash.com/photo-1645782068569-2d889782ee61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXN0JTIwbG9nb3xlbnwwfHx8fDE3NjQ1NDE0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist logo"
+    },
+    {
+      "id": "op-logo-flexjet",
+      "description": "Logo for Flexjet",
+      "imageUrl": "https://images.unsplash.com/photo-1630853141912-56e04572079f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtaW5pbWFsaXN0JTIwbG9nb3xlbnwwfHx8fDE3NjQ1NDE0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist logo"
+    },
+    {
+      "id": "op-logo-vistajet",
+      "description": "Logo for VistaJet",
+      "imageUrl": "https://images.unsplash.com/photo-1623738244303-a645cef7aafa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtaW5pbWFsaXN0JTIwbG9nb3xlbnwwfHx8fDE3NjQ1NDE0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist logo"
+    },
+    {
+      "id": "op-logo-wheelsup",
+      "description": "Logo for Wheels Up",
+      "imageUrl": "https://images.unsplash.com/photo-1610340804490-e9d7b22aee1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtaW5pbWFsaXN0JTIwbG9nb3xlbnwwfHx8fDE3NjQ1NDE0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist logo"
+    },
+    {
+      "id": "op-logo-jetedge",
+      "description": "Logo for Jet Edge",
+      "imageUrl": "https://images.unsplash.com/photo-1645782068569-2d889782ee61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXN0JTIwbG9nb3xlbnwwfHx8fDE3NjQ1NDE0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist logo"
+    },
+    {
+      "id": "op-logo-airshare",
+      "description": "Logo for Airshare",
+      "imageUrl": "https://images.unsplash.com/photo-1760037028517-e5cc6e3ebd3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXN0JTIwbG9nb3xlbnwwfHx8fDE3NjQ1NDE0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist logo"
+    },
+    {
+      "id": "op-logo-zenflight",
+      "description": "Logo for Zenflight",
+      "imageUrl": "https://images.unsplash.com/photo-1623916993213-9a3d463d1234?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtaW5pbWFsaXN0JTIwbG9nb3xlbnwwfHx8fDE3NjQ1NDE0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist logo"
+    },
+    {
+      "id": "op-logo-thrive",
+      "description": "Logo for Thrive",
+      "imageUrl": "https://images.unsplash.com/photo-1618236127409-d75e749a9972?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWluaW1hbGlzdCUyMGxvZ298ZW58MHx8fHwxNzY0NTQxNDM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist logo"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for user Alex Johnson",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQ1Nzk3MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "Avatar for user Samantha Bee",
+      "imageUrl": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQ1Nzk3MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-avatar-3",
+      "description": "Avatar for user Michael Chen",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQ1Nzk3MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-avatar-4",
+      "description": "Avatar for user Emily Rodriguez",
+      "imageUrl": "https://images.unsplash.com/photo-15900867S2792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQ1Nzk3MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-avatar-5",
+      "description": "Avatar for admin user",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQ1Nzk3MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
+}
